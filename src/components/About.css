@@ -1,0 +1,36 @@
+.about {
+    border: 2px solid transparent;
+    background: rgba(230, 230, 230, 0.541);
+}
+
+h2 {
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+
+p {
+    color: rgba(0, 0, 0, 0.767);
+    margin: 0 20px 0 20px;
+}
+
+img {
+    float: right;
+    width: 180px;
+    height: 180px;
+    padding: 10px;
+}
+
+.img-1 {
+    float: right;
+    width: 180px;
+    height: 180px;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.img {
+    float: left;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+}

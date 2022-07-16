@@ -1,0 +1,37 @@
+.donation {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://www.goodwillaz.org/wordpress/wp-content/uploads/2018/04/5-15-1.jpg");
+}
+
+.donate-btn {
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.btn {
+    width: 150px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background: rgba(15, 211, 119, 0.808);
+    margin-left: 12px;
+    border-radius: 12px;
+}
+
+.h2 {
+    color: rgba(255, 255, 255, 0.863);
+    justify-content: center;
+    text-align: center;
+}
+
+.para {
+    color: rgba(255, 255, 255, 0.747);
+}
+
+
+
